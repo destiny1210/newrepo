@@ -1,0 +1,15 @@
+#!/bin/bash
+
+mkdir my-project
+cd my-project
+mkdir assets
+mkdir css
+touch index.html
+mkdir js
+cd css
+touch styles.css
+cd ../
+cd js
+touch scipts.js
+
+
